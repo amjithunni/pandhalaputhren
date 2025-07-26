@@ -988,7 +988,7 @@ a:hover {
 
 @media (max-width: 480px) {
     .main-header .logo h1 {
-        font-size: 20px;
+        font-size: 17px;
     }
     .main-nav ul li {
         margin: 0 10px 10px 10px;
