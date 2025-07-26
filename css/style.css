@@ -998,6 +998,8 @@ a:hover {
     }
     .hero-section h2 {
         font-size: 2em;
+        .hero-section h2 {
+        font-size: 2em;
     }
     .hero-section p {
         font-size: 0.9em;
